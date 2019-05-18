@@ -4,7 +4,7 @@ using System.Text;
 using System.IO;
 using System.Xml.Serialization;
 
-namespace INVFFID.Utility.Lib.RealTimeDataLib
+namespace RealTimeDataLib
 {
     public class DataFormatter
     {

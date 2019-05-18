@@ -5,7 +5,7 @@ using System.Net.Sockets;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace INVFFID.Utility.Lib.RealTimeDataLib
+namespace RealTimeDataLib
 {
     #region Delegates
     public delegate void DataReceiverConnectedDelegate(string dataSrcIp, int dataSrcPort);

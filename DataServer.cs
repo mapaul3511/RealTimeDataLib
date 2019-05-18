@@ -7,7 +7,7 @@ using System.IO;
 using System.ComponentModel;
 using System.Threading;
 
-namespace INVFFID.Utility.Lib.RealTimeDataLib
+namespace RealTimeDataLib
 {
     public delegate void DataServerStartedDelegate(DataServer sender);
     public delegate void DataServerStoppedDelegate(DataServer sender);

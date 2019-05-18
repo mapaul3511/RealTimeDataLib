@@ -7,7 +7,7 @@
     <ProjectGuid>{4975DC41-FDE6-4A7F-B454-D8510F6C3B1D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>INVFFID.Utility.Lib.RealTimeDataLib</RootNamespace>
+    <RootNamespace>RealTimeDataLib</RootNamespace>
     <AssemblyName>RealTimeDataLib</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

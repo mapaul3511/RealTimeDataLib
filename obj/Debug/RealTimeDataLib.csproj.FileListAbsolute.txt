@@ -1,0 +1,5 @@
+Y:\Documents\GitHub\RealTimeDataLib\bin\Debug\RealTimeDataLib.dll
+Y:\Documents\GitHub\RealTimeDataLib\bin\Debug\RealTimeDataLib.pdb
+Y:\Documents\GitHub\RealTimeDataLib\obj\Debug\RealTimeDataLib.csprojResolveAssemblyReference.cache
+Y:\Documents\GitHub\RealTimeDataLib\obj\Debug\RealTimeDataLib.dll
+Y:\Documents\GitHub\RealTimeDataLib\obj\Debug\RealTimeDataLib.pdb

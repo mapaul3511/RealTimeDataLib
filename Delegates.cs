@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace INVFFID.Utility.Lib.RealTimeDataLib
+namespace RealTimeDataLib
 {
     public delegate void AsyncOperationDelegate();
     public delegate void DataReceivedDelegate(object sender, object dataObject, System.Net.Sockets.Socket from);
